@@ -3,4 +3,4 @@ layout: page
 title: About me 
 ---
 
-I am ..
+I am a senior research engineer in LG Electronics, Korea. I am in charge of developing `Hotword` detection. Have you tried `OK Google`, `LG Mobile`, or `Hello Genie` on LG G3? That's what I worte.
