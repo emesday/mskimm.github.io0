@@ -9,7 +9,7 @@ I am familiar with
 
 *   Python : always with it
 *   C/C++ : developed `speech recognition engine`
-*   Git, SVN : can't imange without it
+*   Git, SVN : can't imagine without it
 *   Ubuntu : always with it
 
 You can find me in
