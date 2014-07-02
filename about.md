@@ -14,4 +14,4 @@ I am familiar with
 
 You can find me in
 
-*   (stackoverflow)[http://stackoverflow.com/users/553095/mskimm]
+*   [stackoverflow](http://stackoverflow.com/users/553095/mskimm)
