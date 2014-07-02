@@ -11,7 +11,3 @@ paginate: 15
 url:            'http://www.mskimm.com'
 author:         'mskimm'
 
-analytics :
-  provider : google
-  google : 
-      tracking_id : 'UA-50521497-1'
