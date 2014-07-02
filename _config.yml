@@ -10,3 +10,8 @@ paginate: 15
 # Details for the RSS feed generator
 url:            'http://www.mskimm.com'
 author:         'mskimm'
+
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-50521497-1'
