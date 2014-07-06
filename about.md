@@ -15,3 +15,8 @@ I am familiar with
 You can find me in
 
 *   [stackoverflow](http://stackoverflow.com/users/553095/mskimm)
+
+or email me
+
+<img style="align: left;" src="/assets/images/email.png" />
+

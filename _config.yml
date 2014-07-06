@@ -1,13 +1,17 @@
 name: mskimm
-description: a software developer.
+description: a software developer
 meta_description: "mskimm, a software developer"
 
 markdown: redcarpet
-pygments: true
+highlighter: true
 logo: false
 paginate: 15
 
+baseurl: '/'
+aboutmeurl: '/about.html'
+emailurl: '/assets/images/email.png'
+
 # Details for the RSS feed generator
-url:            'http://www.mskimm.com'
-author:         'mskimm'
+url: 'http://www.mskimm.com'
+author: 'mskimm'
 
