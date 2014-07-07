@@ -14,7 +14,8 @@ I am familiar with
 
 You can find me in
 
-*   [stackoverflow](http://stackoverflow.com/users/553095/mskimm)
+*   [Stack Overflow](http://stackoverflow.com/users/553095/mskimm)
+*   [Google Scholar](http://scholar.google.com/citations?user=28dhrDsAAAAJ)
 
 or email me
 
