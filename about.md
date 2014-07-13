@@ -7,10 +7,10 @@ I am a senior research engineer in LG Electronics, Korea. I am in charge of deve
 
 I am familiar with 
 
-*   Python : always with it
-*   C/C++ : developed `speech recognition engine`
-*   Git, SVN : can't imagine without it
-*   Ubuntu : always with it
+*   Python, C/C++
+*   Git, SVN 
+*   Ubuntu
+*   Speech Recognition
 
 You can find me in
 
