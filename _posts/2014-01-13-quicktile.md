@@ -2,7 +2,7 @@
 layout: post
 title: "QuickTile, a Winsplit-Revolution alternative for X11 (incl. Ubuntu)"
 date:   2014-01-13 00:00:00
-categories: Developments
+categories: development
 ---
 
 겨우 Unity에 적응하고 있었는데, 13.10으로 upgrade하면서 nabi의 글자판을 세벌식으로 도저히 바꿀 수 없게되었다. 

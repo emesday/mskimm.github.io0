@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntu 환경에서 pandoc으로 한글 pdf 생성"
 date:   2014-03-30 00:00:00
-categories: Developments
+categories: development
 ---
 
 1. kotex 설치

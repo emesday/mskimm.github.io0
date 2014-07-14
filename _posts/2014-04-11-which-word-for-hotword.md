@@ -2,7 +2,7 @@
 layout: post
 title: "Which word is better for hotword"
 date:   2014-04-11 00:00:00
-categories: Development
+categories: development
 ---
 
 Do you plan to make a hotword?
