@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 한국어판 Stack Overflow -  SO 한국 유저 분석 1
+title: "한국어판 Stack Overflow -  SO 한국 유저 분석 1"
 date:   2014-07-14 21:07:00
 categories: stackoverflow
 ---
 
-## 영어 쓰기를 어려워하는 한국 유저
+영어 쓰기를 어려워하는 한국 유저
 
 ### 들어가면서
 
