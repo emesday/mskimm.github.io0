@@ -6,14 +6,17 @@ categories: development
 ---
 
 1. kotex 설치
+
 ```
 sudo apt-get install ko.tex*
 ```
 2. header.tex 생성 후 아래 내용 입력
+
 ```
 \usepackage{kotex}
 ```
 3. 변환
+
 ```
 pandoc foo.md -o bar.pdf --include-in-header=header.tex
 ```

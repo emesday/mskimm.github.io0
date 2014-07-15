@@ -14,16 +14,20 @@ categories: development
  - URL: http://ssokolow.com/quicktile/ 
  - 설치 방법
     - 의존성:
+    
 ```
 sudo apt-get install python python-gtk2 python-xlib python-dbus python-wnck
 ```
+
     - 프로그램:
+    
 ```
 git clone git://github.com/ssokolow/quicktile
 cd quicktile; sudo python setup.py install
 ```
+
     - 기존 ctrl+alt 단축키 제거
-       - 설정관리자 -> 창관리자 -> 키보드 -> 모ᅟ든 <Alt><Control>KP_[1-9] 제거
+       - 설정관리자 -> 창관리자 -> 키보드 -> 모든 <Alt><Control>KP_[1-9] 제거
     - 재부팅
 
 
