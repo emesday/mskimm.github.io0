@@ -7,7 +7,8 @@ I am a software engineer at [Daum Kakao Corp](http://www.daumkakao.com/en/main)(
 
 I am familiar with 
 
-*   Python, C/C++, Git 
+*   Python, C/C++, Git
+*   Scala/Spark
 *   Machine learning for recommandation and speech recognition 
 
 You can find me in
