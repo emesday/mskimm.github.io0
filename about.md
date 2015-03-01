@@ -3,14 +3,12 @@ layout: page
 title: About me 
 ---
 
-I am a senior research engineer at LG Electronics, Korea. I am in charge of developing `Hotword` detection. Have you said `OK Google`, `LG Mobile`, or `Hello Genie` on LG G3? That's what I wrote.
+I am a software engineer at [Daum Kakao Corp](http://www.daumkakao.com/en/main)(known as [KakaoTalk](http://www.kakao.com/services/8)).
 
 I am familiar with 
 
-*   Python, C/C++
-*   Git, SVN 
-*   Ubuntu
-*   Speech Recognition
+*   Python, C/C++, Git 
+*   Machine learning for recommandation and speech recognition 
 
 You can find me in
 
