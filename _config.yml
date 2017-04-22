@@ -17,3 +17,5 @@ emailurl: '/assets/images/email.png'
 url: 'http://www.mskimm.com'
 author: 'mskimm'
 
+
+theme: jekyll-theme-tactile
